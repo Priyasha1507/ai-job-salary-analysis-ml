@@ -57,7 +57,16 @@ Experience-based features account for ~99% of salary prediction power.
 - Scikit-learn
 
 ---
+## 📊 Salary Distribution
+![Salary Distribution](images/salary_distribution.png)
+
+## 📈 Experience vs Salary
+![Experience vs Salary](images/experience_vs_salary.png)
+
+## 🌲 Feature Importance
+![Feature Importance](images/feature_importance.png)
 
 ## ▶️ How to Run the Project
 
 1. Clone the repository:https://github.com/Priyasha1507/ai-job-salary-analysis-ml
+
